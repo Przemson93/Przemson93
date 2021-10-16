@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Przemson93
+- 👀 I’m interested in Programming for Android Apps 
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - dm
